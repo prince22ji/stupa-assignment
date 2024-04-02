@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-list-container {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+
+}
+
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+}
+
+.card-list-item {
+    display: flex;
+}
